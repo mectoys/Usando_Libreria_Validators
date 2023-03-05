@@ -16,6 +16,8 @@ Entre las funciones que aprenderemos son :
 * American Xpress.
 
 Si descargas el proyecto es posible que tengas problemas al ejecutar por ser de Entorno Virtual y la ruta de executable Python sea diferente al que tienes instalado
-para ello trata de crear un nuevo proyeecto en tu editor copia uy pega el código, no olvidarse de instalar la librería VALIDATORS 
+para ello trata de crear un nuevo proyecto en tu editor, copia y pega el código. No olvidarse de instalar la librería VALIDATORS 
+
+pip install validators
 
 ![Lib Validator](https://user-images.githubusercontent.com/7143758/222990934-03677339-15f8-42fd-8e58-a406f8f41d71.png)
